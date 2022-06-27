@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asadanwar
 - 👀 I’m interested in all things Technology
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science / Machine Learning
 - 💞️ I’m looking to collaborate on Tableau Projects
 - 📫 How to reach me https://www.linkedin.com/in/asadanwar1/
 
